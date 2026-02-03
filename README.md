@@ -59,9 +59,6 @@ I'm an aspiring **Software Engineer** specializing in **Full Stack Java & React 
 
 ---
 
-### 📊 GitHub Stats & Coding Activity
----
-
 
 ### 📫 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mantu-kumar-486b7825a/)
