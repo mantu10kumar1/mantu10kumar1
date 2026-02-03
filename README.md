@@ -1,10 +1,10 @@
 # Hi there, I'm Mantu Kumar 👋
 
-I'm an aspiring **Software Engineer** specializing in **Full Stack Java & React Development**. I love building scalable applications and solving complex problems.
+I'm an aspiring **Software Engineer** specializing in **Full Stack Java & React Development**. [cite_start]I love building scalable applications and solving complex problems[cite: 42, 44].
 
-- 🎓 B.Tech in CSE from Centurion University (2022-2026)
-- 🏆 110+ Problems Solved on GeeksforGeeks
-- 💼 Working on Enterprise-grade applications with Spring Boot & React
+- 🎓 B.Tech in CSE from Centurion University (2022-2026) | [cite_start]CGPA: 8.5/10.0 [cite: 46, 76]
+- [cite_start]🏆 110+ Problems Solved on GeeksforGeeks [cite: 73]
+- [cite_start]💼 Currently an Intern at **Blackcoffer** 
 
 ---
 
@@ -27,16 +27,20 @@ I'm an aspiring **Software Engineer** specializing in **Full Stack Java & React 
 
 ---
 
-### 📊 GitHub Stats
-![Mantu's GitHub stats](https://github-readme-stats.vercel.app/api?username=mantu10kumar1&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mantu10kumar1&layout=compact&theme=radical)
+### 🚀 Featured Live Projects
+
+- 🌐 **[Developer Portfolio](https://admirable-cupcake-cd3f9f.netlify.app/)** | *React, Tailwind, Spring Boot*
+  - [cite_start]Designed and deployed a professional hub to showcase technical expertise[cite: 48, 50].
+- 💼 **[Job Nexus](https://job-portal-frontend2nd.onrender.com/)** | *Spring Boot, React, MySQL*
+  - [cite_start]Full-stack recruitment platform with secure role-based authentication[cite: 53, 57].
+- 🏢 **[SMC Inovexa](https://smcinovexa.com/)** | *Spring Boot, React, REST APIs*
+  - [cite_start]Multi-feature startup platform for course enrollment and project requests[cite: 59, 61].
 
 ---
 
-### 🚀 Featured Projects
-- 💼 **[Job Nexus](https://github.com/mantu10kumar1)**: Full-stack Recruitment Portal (Spring Boot & React).
-- ✉️ **[Mail Sender](https://github.com/mantu10kumar1/MailSenderServiceApp-with-SpringBoot-React)**: Secure SMTP Email Service.
-- 🌐 **[Live Portfolio](https://admirable-cupcake-cd3f9f.netlify.app/)**: Check out my production projects!
+### 📊 GitHub Stats
+![Mantu's GitHub stats](https://github-readme-stats.vercel.app/api?username=mantu10kumar1&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mantu10kumar1&layout=compact&theme=radical)
 
 ---
 
