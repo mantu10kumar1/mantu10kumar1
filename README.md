@@ -57,8 +57,15 @@ I'm an aspiring **Software Engineer** specializing in **Full Stack Java & React 
 <a href="https://www.geeksforgeeks.org/profile/mantu22010" target="_blank"><img src="https://img.shields.io/badge/-GeeksforGeeks-298D46?style=for-the-badge&logo=GeeksforGeeks&logoColor=white" /></a>
 </p>
 
-![Mantu's GitHub stats](https://github-readme-stats.vercel.app/api?username=mantu10kumar1&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mantu10kumar1&layout=compact&theme=radical)
+---
+
+### 📊 GitHub Stats & Coding Activity
+
+| **Overall Stats** | **Most Used Languages** |
+| :---: | :---: |
+| ![Mantu's GitHub stats](https://github-readme-stats.vercel.app/api?username=mantu10kumar1&show_icons=true&theme=radical&hide_border=true&count_private=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mantu10kumar1&layout=compact&theme=radical&hide_border=true) |
+
+---
 
 ---
 
