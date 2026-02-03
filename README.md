@@ -60,10 +60,16 @@ I'm an aspiring **Software Engineer** specializing in **Full Stack Java & React 
 ---
 
 ### 📊 GitHub Stats & Coding Activity
+---
 
-| **Overall Stats** | **Most Used Languages** |
-| :---: | :---: |
-| ![Mantu's GitHub stats](https://github-readme-stats.vercel.app/api?username=mantu10kumar1&show_icons=true&theme=radical&hide_border=true&count_private=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mantu10kumar1&layout=compact&theme=radical&hide_border=true) |
+### 📊 GitHub Stats & Coding Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mantu10kumar1&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mantu10kumar1&layout=compact&theme=radical&hide_border=true" width="41%" />
+</p>
+
+---
 
 ---
 
