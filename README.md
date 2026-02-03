@@ -1,10 +1,10 @@
 # Hi there, I'm Mantu Kumar 👋
 
-I'm an aspiring **Software Engineer** specializing in **Full Stack Java & React Development**. [cite_start]I love building scalable applications and solving complex problems[cite: 42, 44].
+I'm an aspiring **Software Engineer** specializing in **Full Stack Java & React Development**. I love building scalable applications and solving complex problems.
 
-- 🎓 B.Tech in CSE from Centurion University (2022-2026) | [cite_start]CGPA: 8.5/10.0 [cite: 46, 76]
-- 🏆 630+ Problems Solved on GeeksforGeeks
-- [cite_start]💼 Currently an Intern at **Blackcoffer** [cite: 10]
+- 🎓 B.Tech in CSE from Centurion University (2022-2026) | CGPA: 8.5/10.0
+- 🏆 637+ Problems Solved on GeeksforGeeks
+- 💼 Currently an Intern at **Blackcoffer**
 
 ---
 
@@ -35,19 +35,19 @@ I'm an aspiring **Software Engineer** specializing in **Full Stack Java & React 
 
 ### 🚀 Featured Live Projects
 
-- 🌐 **[Developer Portfolio](https://admirable-cupcake-cd3f9f.netlify.app/)** | [cite_start]*React, Tailwind, Spring Boot* [cite: 49]
-  - [cite_start]Designed and deployed a professional hub to showcase technical expertise[cite: 48, 50].
-- 💼 **[Job Nexus](https://job-portal-frontend2nd.onrender.com/)** | [cite_start]*Spring Boot, React, MySQL, Microservices* [cite: 53, 54, 67]
-  - [cite_start]Full-stack recruitment platform with secure role-based authentication[cite: 53, 57].
-- 🏢 **[SMC Inovexa](https://smcinovexa.com/)** | [cite_start]*Spring Boot, React, REST APIs* [cite: 59, 60]
-  - [cite_start]Multi-feature startup platform for course enrollment and project requests[cite: 59, 61].
+- 🌐 **[Developer Portfolio](https://admirable-cupcake-cd3f9f.netlify.app/)** | *React, Tailwind, Spring Boot*
+  - Designed and deployed a professional hub to showcase technical expertise.
+- 💼 **[Job Nexus](https://job-portal-frontend2nd.onrender.com/)** | *Spring Boot, React, MySQL, Microservices*
+  - Full-stack recruitment platform with secure role-based authentication.
+- 🏢 **[SMC Inovexa](https://smcinovexa.com/)** | *Spring Boot, React, REST APIs*
+  - Multi-feature startup platform for course enrollment and project requests.
 
 ---
 
 ### 🧠 Specialized Areas
-- [cite_start]**Algorithms:** Data Structures and Algorithms (DSA) using C++[cite: 70, 75].
-- [cite_start]**Architecture:** System Design & Microservices.
-- [cite_start]**Object Oriented Programming:** Strong foundation in OOPs[cite: 70].
+- **Algorithms:** Data Structures and Algorithms (DSA) using C++.
+- **Architecture:** System Design & Microservices.
+- **Object Oriented Programming:** Strong foundation in OOPs.
 
 ---
 
