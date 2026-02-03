@@ -54,7 +54,7 @@ I'm an aspiring **Software Engineer** specializing in **Full Stack Java & React 
 ### 📈 Coding Profiles & Stats
 <p align="left">
 <a href="https://leetcode.com/u/mantu1kumar/" target="_blank"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" /></a>
-<a href="https://www.geeksforgeeks.org/profile/mantu22010" target="_blank"><img src="https://img.shields.io/badge/-GeeksforGeeks-298D46?style=for-the-badge&logo=GeeksforGeeks&logoColor=white" /></a>
+<a href="https://www.geeksforgeeks.org/profile/mantu22010?tab=activity" target="_blank"><img src="https://img.shields.io/badge/-GeeksforGeeks-298D46?style=for-the-badge&logo=GeeksforGeeks&logoColor=white" /></a>
 </p>
 
 ---
